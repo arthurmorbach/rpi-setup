@@ -1,4 +1,4 @@
-# rpi4-setup
+# rpi-setup
 
 Shell scripts that configure a Raspberry Pi (3 or 4) to run [bCNC](https://github.com/Erik-Morbach/bCNC), including the specific Python version bCNC needs, all required system/Python packages, GPIO-based ESP32 reset control, a jog-wheel configuration, and a desktop launcher.
 
